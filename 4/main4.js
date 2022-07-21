@@ -41,7 +41,7 @@ let students = [
     },
 ];
 
-const user = {
+const user = {fgnxfnhfj
     name: "Bob",
     age: 23,
     friends: ["Alex", "Nick", "John", 'jhv']
