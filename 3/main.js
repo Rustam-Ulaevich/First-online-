@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 const sm = document.getElementById('small')
 const md = document.getElementById('medium')
@@ -22,6 +21,6 @@ const onClickHandler = (event) => {
 sm.addEventListener('click', onClickHandler)
 md.addEventListener('click', onClickHandler)
 bg.addEventListener('click', onClickHandler)
-=======
+
 alert('dfbsdfgsdfgb')
->>>>>>> origin/main
+
