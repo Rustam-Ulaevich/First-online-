@@ -1,1 +1,1 @@
-alert('dfbsdfgsdfgb')
+alert('')
