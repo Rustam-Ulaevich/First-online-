@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0176bd73-6ecd-4cac-a426-ffea6fd64e51" name="Changes" comment="Revert &quot;second commit.&quot;">
+    <list default="true" id="0176bd73-6ecd-4cac-a426-ffea6fd64e51" name="Changes" comment="new folders">
+      <change afterPath="$PROJECT_DIR$/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/main6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/3/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/mainForStudents (4).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/среда-четверг/9/src/lessons/lesson2/lesson2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/среда-четверг/9/src/lessons/lesson2/lesson2.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +34,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3 event" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/6" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="D:\IT\IT_INCUBATOR\Native-Javascript-Lessons\среда-четверг\9\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\IT_INCUBATOR\Native-Javascript-Lessons\6" />
+      <recent name="D:\IT\IT_INCUBATOR\Native-Javascript-Lessons\3" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,6 +58,9 @@
       <updated>1658382568675</updated>
       <workItem from="1658382570378" duration="363000" />
       <workItem from="1658408390610" duration="1551000" />
+      <workItem from="1658553439160" duration="1451000" />
+      <workItem from="1658591539873" duration="2272000" />
+      <workItem from="1658811466348" duration="14468000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658382670691</created>
@@ -85,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658408421796</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new folders">
+      <created>1658553546708</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658553546708</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +135,7 @@
     <MESSAGE value="Revert &quot;Completed the 3rd lesson&quot;&#10;&#10;This reverts commit 2d9d5b00" />
     <MESSAGE value="Revert &quot;second commit.&quot;&#10;&#10;This reverts commit 3913cc78" />
     <MESSAGE value="Revert &quot;second commit.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;second commit.&quot;" />
+    <MESSAGE value="new folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="new folders" />
   </component>
 </project>
